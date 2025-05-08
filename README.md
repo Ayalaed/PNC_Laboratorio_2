@@ -1,1 +1,4 @@
 # PNC_Laboratorio_2
+**Estudiantes:**
+- DAVID 
+- EDUARDO ANTONIO AYALA CHAVEZ 00091722
